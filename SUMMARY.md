@@ -2,7 +2,13 @@
 
 * [Optimum Knowledge Base](README.md)
 
-## Group 1
+## Plano de Negócios
 
-* [Page 1](group-1/page-1.md)
-* [Page 2](group-1/page-2.md)
+* [Plano de Marketing](plano-de-negocios/plano-de-marketing.md)
+* [Plano Operacional](plano-de-negocios/plano-operacional.md)
+* [Plano Financeiro](plano-de-negocios/plano-financeiro.md)
+* [Plano Estratégico](plano-de-negocios/plano-estrategico.md)
+
+## Imagens
+
+* [Page 1](imagens/page-1.md)
