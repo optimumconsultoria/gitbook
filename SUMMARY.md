@@ -1,13 +1,13 @@
 # Table of contents
 
-* [Optimum Wiki](README.md)
+* [📓 Optimum Wiki](README.md)
 
 ## Plano de Negócios
 
-* [Plano de Marketing](plano-de-negocios/plano-de-marketing.md)
-* [Plano Operacional](plano-de-negocios/plano-operacional.md)
-* [Plano Estratégico](plano-de-negocios/plano-estrategico.md)
-* [Plano Financeiro](plano-de-negocios/plano-financeiro.md)
+* [🤝 Plano de Marketing](plano-de-negocios/plano-de-marketing.md)
+* [🏢 Plano Operacional](plano-de-negocios/plano-operacional.md)
+* [♟ Plano Estratégico](plano-de-negocios/plano-estrategico.md)
+* [💰 Plano Financeiro](plano-de-negocios/plano-financeiro.md)
 
 ## Imagens
 
