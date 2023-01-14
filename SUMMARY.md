@@ -17,3 +17,8 @@
 
 * [Carta](prospeccao/carta.md)
 * [Potenciais clientes](prospeccao/potenciais-clientes.md)
+
+## Livros
+
+* [PMBOK](livros/pmbok.md)
+* [Safari de Estratégia](livros/safari-de-estrategia.md)
