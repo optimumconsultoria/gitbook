@@ -11,4 +11,4 @@
 
 ## Imagens
 
-* [Page 1](imagens/page-1.md)
+* [Logos](imagens/logos.md)
