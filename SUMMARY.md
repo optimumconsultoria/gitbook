@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Optimum Consulting Wiki](README.md)
+* [Optimum Wiki](README.md)
 
 ## Plano de Negócios
 
