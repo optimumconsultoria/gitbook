@@ -1,11 +1,6 @@
-# Plano de Marketing
+---
+description: Base de conhecimentos da Optimum Consulting
+---
 
-## H1
+# Optimum Knowledge Base
 
-### H2
-
-#### H3
-
-{% file src=".gitbook/assets/Plano de Marketing Público.pdf" %}
-Plano de Marketing
-{% endfile %}
