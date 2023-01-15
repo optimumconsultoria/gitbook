@@ -12,4 +12,4 @@ Todo o conhecimento da empresa será distribuído em três frentes:
 
 1. Google Drive: utilizado para criação e manutenção de documentos compartilhados (Google Docs e Google Sheets), armazenamento de grandes arquivos e arquivos temporários;
 2. GitHub: deve atender ao propósito de versionamento e armazenamento de código. Também é utilizado para hospedar o site e o GitBook da empresa;
-3. GitBook: funciona como uma interface de acesso aos arquivos da empresa. Permite fácil acesso e organização de conteúdos, suportando edição de texto em MarkDown, integração com o GitHub e hiperlinks para o Google Drive.
+3. GitBook: funciona como uma interface de acesso aos arquivos da empresa. Permite fácil acesso e organização de conteúdos, suportando edição de texto em MarkDown, integração com o GitHub e hiperlinks para o acesso de arquivos no Google Drive ou qualquer outro conteúdo da internet.
