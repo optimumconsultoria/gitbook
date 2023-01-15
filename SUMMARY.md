@@ -13,6 +13,10 @@
 
 * [Logos](imagens/logos.md)
 
+## 🖥 Códigos
+
+* [Data Science](codigos/data-science.md)
+
 ## 📞 Prospecção
 
 * [Carta](prospeccao/carta.md)
@@ -22,7 +26,3 @@
 
 * [PMBOK](livros/pmbok.md)
 * [Safári de Estratégia](livros/safari-de-estrategia.md)
-
-## 🖥 Códigos
-
-* [Data Science](codigos/data-science.md)
