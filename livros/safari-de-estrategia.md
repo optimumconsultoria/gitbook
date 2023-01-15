@@ -2,6 +2,8 @@
 description: >-
   Safári de estratégia: um roteiro pela selva do planejamento estratégico. Henry
   Mintzberg; Bruce Ahlstrand; Joseph Lampel
+cover: ../.gitbook/assets/fundo-optimum.png
+coverY: 0
 ---
 
 # Safári de Estratégia

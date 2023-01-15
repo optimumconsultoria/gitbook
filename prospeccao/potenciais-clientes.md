@@ -1,5 +1,7 @@
 ---
 description: Planilha com empresas da região de São Carlos que podemos entrar em contato
+cover: ../.gitbook/assets/fundo-optimum.png
+coverY: 0
 ---
 
 # Potenciais clientes

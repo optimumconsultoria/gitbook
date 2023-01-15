@@ -1,5 +1,7 @@
 ---
 description: Carta para contato com potenciais clientes
+cover: ../.gitbook/assets/fundo-optimum.png
+coverY: 0
 ---
 
 # Carta

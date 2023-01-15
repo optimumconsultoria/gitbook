@@ -1,5 +1,7 @@
 ---
 description: 6ª Edição do Guia PMBOK (Project Management Body of Knowledge)
+cover: ../.gitbook/assets/fundo-optimum.png
+coverY: 0
 ---
 
 # PMBOK
