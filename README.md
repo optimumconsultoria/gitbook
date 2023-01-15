@@ -6,7 +6,7 @@ coverY: 0
 
 # 📓 Optimum Wiki
 
-Por meio do GitBook, que é uma ferramenta de colaboração e gerenciamento de documentação, podemos organizar e compartilhar, de forma rápida e eficaz, informações internas, como processos, procedimentos e políticas.
+Por meio do GitBook, que é uma ferramenta de colaboração e gerenciamento de documentação, podemos organizar e compartilhar, de forma rápida e eficaz, informações internas como processos, procedimentos e políticas.
 
 Todo o conhecimento da empresa será distribuído em três frentes:
 
