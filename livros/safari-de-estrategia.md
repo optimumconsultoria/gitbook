@@ -1,8 +1,7 @@
 ---
 description: >-
   Safári de estratégia: um roteiro pela selva do planejamento estratégico. Henry
-  Mintzberg; Bruce Ahlstrand; Joseph Lampel. trad. Nivaldo Monttngelli Jr. -
-  Porto Alegre : Bookman, 2000.
+  Mintzberg; Bruce Ahlstrand; Joseph Lampel
 ---
 
 # Safári de Estratégia
