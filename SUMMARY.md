@@ -21,4 +21,4 @@
 ## 📖 Livros
 
 * [PMBOK](livros/pmbok.md)
-* [Safari de Estratégia](livros/safari-de-estrategia.md)
+* [Safári de Estratégia](livros/safari-de-estrategia.md)
