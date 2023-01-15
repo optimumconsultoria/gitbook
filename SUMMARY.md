@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Optimum Wiki](README.md)
+* [📓 Optimum Wiki](README.md)
 
 ## 💲 Plano de Negócios
 
@@ -13,12 +13,12 @@
 
 * [Logos](imagens/logos.md)
 
-## Livros
-
-* [PMBOK](livros/pmbok.md)
-* [Safari de Estratégia](livros/safari-de-estrategia.md)
-
-## Prospecção
+## 📞 Prospecção
 
 * [Carta](prospeccao/carta.md)
 * [Potenciais clientes](prospeccao/potenciais-clientes.md)
+
+## 📖 Livros
+
+* [PMBOK](livros/pmbok.md)
+* [Safari de Estratégia](livros/safari-de-estrategia.md)
