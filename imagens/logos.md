@@ -1,3 +1,9 @@
+---
+description: >-
+  Imagens oficiais da empresa. Disponíveis em:
+  https://drive.google.com/drive/folders/1-VuorH1FG90hg-UtgFnJReS3oNkfgtqB
+---
+
 # Logos
 
 
