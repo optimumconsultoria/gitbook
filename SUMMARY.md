@@ -23,10 +23,6 @@
 * [Precificação](codigos/precificacao.md)
 * [Data Science](codigos/data-science.md)
 
-## 📖 Livros
-
-* [Biblioteca](livros/biblioteca.md)
-
 ## 📒 Tutoriais
 
 * [Markdown](tutoriais/markdown/README.md)
@@ -37,3 +33,7 @@
   * [Imagens](tutoriais/markdown/imagens.md)
   * [Tabelas](tutoriais/markdown/tabelas.md)
   * [Códigos](tutoriais/markdown/codigos.md)
+
+## 📖 Livros
+
+* [Biblioteca](livros/biblioteca.md)
