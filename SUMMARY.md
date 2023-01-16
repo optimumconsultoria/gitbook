@@ -20,6 +20,7 @@
 ## 🖥 Códigos
 
 * [Site](codigos/site.md)
+* [Precificação](codigos/precificacao.md)
 * [Data Science](codigos/data-science.md)
 
 ## 📖 Livros
