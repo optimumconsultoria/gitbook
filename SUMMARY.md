@@ -13,14 +13,14 @@
 
 * [Logos](imagens/logos.md)
 
+## 📞 Prospecção
+
+* [Recursos](prospeccao/recursos.md)
+
 ## 🖥 Códigos
 
 * [Site](codigos/site.md)
 * [Data Science](codigos/data-science.md)
-
-## 📞 Prospecção
-
-* [Recursos](prospeccao/recursos.md)
 
 ## 📖 Livros
 
