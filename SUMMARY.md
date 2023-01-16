@@ -36,3 +36,4 @@
   * [Listas](tutoriais/markdown/listas.md)
   * [Imagens](tutoriais/markdown/imagens.md)
   * [Códigos](tutoriais/markdown/codigos.md)
+  * [Tabelas](tutoriais/markdown/tabelas.md)
