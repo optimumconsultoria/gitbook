@@ -1,5 +1,5 @@
 ---
-description: Recursos bibliográficos para apoio aos serviços de consultoria
+description: Recursos bibliográficos de apoio aos serviços de consultoria
 ---
 
 # Biblioteca
