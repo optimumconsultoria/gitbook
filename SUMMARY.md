@@ -20,8 +20,7 @@
 
 ## 📞 Prospecção
 
-* [Carta](prospeccao/carta.md)
-* [Potenciais clientes](prospeccao/potenciais-clientes.md)
+* [Recursos](prospeccao/recursos.md)
 
 ## 📖 Livros
 
