@@ -14,3 +14,8 @@ def f(x):
     return x ** 2
 ```
 ````
+
+```python
+def f(x)
+    return x ** 2
+```

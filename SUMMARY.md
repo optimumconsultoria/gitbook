@@ -31,9 +31,9 @@
 
 * [Markdown](tutoriais/markdown/README.md)
   * [Títulos](tutoriais/markdown/titulos.md)
+  * [Listas](tutoriais/markdown/listas.md)
   * [Ênfase](tutoriais/markdown/enfase.md)
   * [Links](tutoriais/markdown/links.md)
-  * [Listas](tutoriais/markdown/listas.md)
   * [Imagens](tutoriais/markdown/imagens.md)
-  * [Códigos](tutoriais/markdown/codigos.md)
   * [Tabelas](tutoriais/markdown/tabelas.md)
+  * [Códigos](tutoriais/markdown/codigos.md)
