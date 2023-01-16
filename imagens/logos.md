@@ -4,9 +4,9 @@ description: Imagens oficiais da empresa
 
 # Logos
 
-{% embed url="https://drive.google.com/drive/folders/1-VuorH1FG90hg-UtgFnJReS3oNkfgtqB" %}
-Imagens com maior resolução no Google Drive
-{% endembed %}
+Disponíveis em: [https://drive.google.com/drive/folders/1-VuorH1FG90hg-UtgFnJReS3oNkfgtqB](https://drive.google.com/drive/folders/1-VuorH1FG90hg-UtgFnJReS3oNkfgtqB)
+
+
 
 <figure><img src="../.gitbook/assets/Logo_helvetica.png" alt=""><figcaption></figcaption></figure>
 

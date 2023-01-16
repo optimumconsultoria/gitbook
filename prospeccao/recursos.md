@@ -6,4 +6,4 @@ coverY: 0
 
 # Recursos
 
-[https://drive.google.com/drive/folders/1uCkx0GMbC5mUih4pTRBGtdiglfY5WNNU](https://drive.google.com/drive/folders/1uCkx0GMbC5mUih4pTRBGtdiglfY5WNNU)
+{% embed url="https://drive.google.com/drive/folders/1uCkx0GMbC5mUih4pTRBGtdiglfY5WNNU" %}

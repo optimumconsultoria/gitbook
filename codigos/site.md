@@ -6,4 +6,4 @@ coverY: 0
 
 # Site
 
-[https://github.com/optimumconsulting/optimumconsulting.github.io](https://github.com/optimumconsulting/optimumconsulting.github.io)
+{% embed url="https://github.com/optimumconsulting/optimumconsulting.github.io" %}
