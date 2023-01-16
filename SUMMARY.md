@@ -33,3 +33,4 @@
   * [Títulos](tutoriais/markdown/titulos.md)
   * [Ênfase](tutoriais/markdown/enfase.md)
   * [Links](tutoriais/markdown/links.md)
+  * [Listas](tutoriais/markdown/listas.md)
