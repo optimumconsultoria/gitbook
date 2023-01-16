@@ -31,3 +31,4 @@
 
 * [Markdown](tutoriais/markdown/README.md)
   * [Títulos](tutoriais/markdown/titulos.md)
+  * [Ênfase](tutoriais/markdown/enfase.md)
