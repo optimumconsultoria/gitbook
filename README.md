@@ -1,5 +1,5 @@
 ---
-description: Base de conhecimentos da Optimum Consulting
+description: Base de conhecimentos da Optimum Consultoria
 cover: .gitbook/assets/fundo-optimum.png
 coverY: 0
 ---
