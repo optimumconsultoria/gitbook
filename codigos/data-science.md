@@ -6,4 +6,4 @@ coverY: 0
 
 # Data Science
 
-{% embed url="https://github.com/optimumconsulting/data-science" %}
+{% embed url="https://github.com/optimumconsultoria/data-science" %}

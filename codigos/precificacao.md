@@ -6,4 +6,4 @@ coverY: 0
 
 # Precificação
 
-{% embed url="https://github.com/optimumconsulting/precificacao/blob/main/precificacao.ipynb" %}
+{% embed url="https://github.com/optimumconsultoria/precificacao" %}
