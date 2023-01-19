@@ -1,6 +1,6 @@
 ---
 description: Recursos bibliográficos de apoio aos serviços de consultoria
-cover: ../.gitbook/assets/fundo-optimum.png
+cover: ../.gitbook/assets/fundo-optimum-logo.png
 coverY: 0
 ---
 

@@ -8,7 +8,7 @@ description: Imagens oficiais da empresa
 Imagens com maior resolução no Google Drive
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/Logo_Optimum (1).png" alt=""><figcaption><p>Logo principal</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Logo_Optimum (2).png" alt=""><figcaption><p>Logo principal</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Logo_short.png" alt=""><figcaption><p>Logo de redes sociais</p></figcaption></figure>
 

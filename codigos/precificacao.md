@@ -1,6 +1,6 @@
 ---
 description: Modelo a ser utilizado para precificação de projetos
-cover: ../.gitbook/assets/fundo-optimum.png
+cover: ../.gitbook/assets/fundo-optimum-logo.png
 coverY: 0
 ---
 
