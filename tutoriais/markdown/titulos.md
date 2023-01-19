@@ -1,8 +1,8 @@
 # Títulos
 
-Os títulos são marcados hierarquicamente com a tag "#".
+Os títulos são marcados hierarquicamente com a tag "#":
 
-```
+```markdown
 # Título 1
 ## Título 2
 ### Título 3
