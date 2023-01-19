@@ -1,5 +1,7 @@
 ---
 description: Linguagem de marcação simplificada para formatação de textos
+cover: ../../.gitbook/assets/fundo-optimum.png
+coverY: 0
 ---
 
 # Markdown
