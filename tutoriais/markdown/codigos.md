@@ -6,7 +6,7 @@ Os códigos podem ser adicionados em linha junto ao texto entre dois acentos gra
 Existe um `código` nessa linha
 ```
 
-A criação de um bloco de códigos é feita com três acentos graves ou três tils ( \~ ):
+A criação de um bloco de códigos é feita entre três acentos graves ou três tils ( \~ ):
 
 ````markdown
 ```

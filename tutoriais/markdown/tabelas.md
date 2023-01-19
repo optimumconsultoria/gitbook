@@ -1,6 +1,6 @@
 # Tabelas
 
-As tabelas em Markdown são visualmente intuitiva, utilizamos " | " para separar colunas e " - " para separação de linhas:
+As tabelas em Markdown são visualmente intuitivas, utilizamos " | " para separar colunas e " - " para separação de linhas:
 
 ```markdown
 Coluna 1 | Coluna 2
