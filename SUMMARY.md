@@ -20,7 +20,7 @@
 ## 📞 Comercial
 
 * [Negócios](comercial/negocios.md)
-* [Prospecção](comercial/recursos.md)
+* [Prospecção](prospeccao/recursos.md)
 * [Modelos e links úteis](comercial/recursos-1.md)
 
 ## 🖥 Códigos
@@ -28,6 +28,7 @@
 * [Site](codigos/site.md)
 * [Precificação](codigos/precificacao.md)
 * [Data Science](codigos/data-science.md)
+* [LaTeX](codigos/latex.md)
 
 ## 💲 Plano de Negócios
 
