@@ -1,5 +1,7 @@
 ---
 description: Artigos para postagem no LinkedIn
+cover: ../.gitbook/assets/fundo-optimum-logo.png
+coverY: 0
 ---
 
 # Artigos
