@@ -13,15 +13,19 @@
   * [Tabelas](tutoriais/markdown/tabelas.md)
   * [Códigos](tutoriais/markdown/codigos.md)
 
-## 📷 Imagens
+## 🎯 Marketing
 
-* [Logos](imagens/logos.md)
+* [Artigos](marketing/artigos.md)
 
 ## 📞 Comercial
 
 * [Negócios](comercial/negocios.md)
 * [Prospecção](prospeccao/recursos.md)
 * [Modelos e links úteis](comercial/recursos-1.md)
+
+## 📷 Imagens
+
+* [Logos](imagens/logos.md)
 
 ## 🖥 Códigos
 

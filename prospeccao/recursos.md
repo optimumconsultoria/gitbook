@@ -4,6 +4,6 @@ cover: ../.gitbook/assets/fundo-optimum-logo.png
 coverY: 0
 ---
 
-# Prospecção
+# Recursos
 
 {% embed url="https://drive.google.com/drive/folders/1uCkx0GMbC5mUih4pTRBGtdiglfY5WNNU" %}
