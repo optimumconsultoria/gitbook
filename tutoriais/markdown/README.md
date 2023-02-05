@@ -1,6 +1,6 @@
 ---
 description: Linguagem de marcação simplificada para formatação de textos
-cover: ../../.gitbook/assets/fundo-optimum.png
+cover: ../../.gitbook/assets/fundo-optimum-logo.png
 coverY: 0
 ---
 
