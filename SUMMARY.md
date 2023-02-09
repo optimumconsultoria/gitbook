@@ -25,7 +25,7 @@
 
 ## 📷 Identidade visual
 
-* [Logos](identidade-visual/logos.md)
+* [Logos](imagens/logos.md)
 * [Cores](identidade-visual/cores.md)
 
 ## 🖥 Códigos
