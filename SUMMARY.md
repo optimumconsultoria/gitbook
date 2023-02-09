@@ -12,6 +12,7 @@
   * [Imagens](tutoriais/markdown/imagens.md)
   * [Tabelas](tutoriais/markdown/tabelas.md)
   * [Códigos](tutoriais/markdown/codigos.md)
+* [Git](tutoriais/git.md)
 
 ## 🎯 Marketing
 
