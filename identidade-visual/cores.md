@@ -1,7 +1,5 @@
 ---
 description: Códigos hexadecimais das cores utilizadas na identidade visual da empresa
-cover: ../.gitbook/assets/fundo-optimum-logo.png
-coverY: 0
 ---
 
 # Cores
