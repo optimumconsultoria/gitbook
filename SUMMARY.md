@@ -23,9 +23,10 @@
 * [Prospecção](prospeccao/recursos.md)
 * [Modelos e links úteis](comercial/recursos-1.md)
 
-## 📷 Imagens
+## 📷 Identidade visual
 
-* [Logos](imagens/logos.md)
+* [Logos](identidade-visual/logos.md)
+* [Cores](identidade-visual/cores.md)
 
 ## 🖥 Códigos
 
