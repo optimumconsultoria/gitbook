@@ -12,6 +12,8 @@ Git é um software livre de versionamento de código fonte utilizado para coorde
 
 ## Funcionalidades
 
+Algumas de suas funcionalidades gerais são:
+
 * O software permite sincronizar as alterações no código para todos os membros envolvidos em um projeto, facilitando a cooperação durante o processo de desenvolvimento.&#x20;
 * Quando versões diferentes do código são unidas, o Git tenta resolver automaticamente os conflitos e criar uma nova versão do arquivo. Se isso não for possível, a equipe deve escolher quais alterações serão mantidas na versão em desenvolvimento.&#x20;
 * O Git mantém o registro de todas as versões do código, sendo possível visualizar o estado anterior dos arquivos ou retornar a uma versão para desfazer mudanças indesejadas.
