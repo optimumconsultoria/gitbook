@@ -1,6 +1,6 @@
 ---
 description: Linguagem de marcação simplificada para formatação de textos
-cover: ../../.gitbook/assets/fundo-optimum-logo.png
+cover: ../../.gitbook/assets/Markdown-Logo.wine.png
 coverY: 0
 ---
 
