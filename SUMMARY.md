@@ -12,7 +12,8 @@
   * [Imagens](tutoriais/markdown/imagens.md)
   * [Tabelas](tutoriais/markdown/tabelas.md)
   * [Códigos](tutoriais/markdown/codigos.md)
-* [Git](tutoriais/git.md)
+* [Git](tutoriais/git/README.md)
+  * [Git vs GitHub](tutoriais/git/git-vs-github.md)
 
 ## 🎯 Marketing
 
