@@ -18,6 +18,10 @@ Em geral, o site é utilizado como servidor para armazenar e compartilhar as mud
 
 Apesar de ser a maior plataforma que oferece esse serviço de hospedagem, o GitHub não é a única, e nem é imprescíndivel para a utilização do Git. Alternativas como o GitLab oferecem esse mesmo tipo de serviço com planos pagos que oferecem mais opções de controle sobre os repositórios. Além disso, é possível trabalhar com o Git apenas na máquina local, sem jamais realizar o upload de suas informações para um servidor na web, ou ainda utilizar um servidor interno da empresa para obter ainda mais controle sobre os repositórios.
 
+{% hint style="info" %}
+Isso significa que, para a utilização do Git, não é necessária conexão com a internet, salvo o caso de uso de comandos que comunicam-se com o servidor do GitHub (remoto), conforme veremos posteriormente (`git push` e `git pull`)
+{% endhint %}
+
 ## Resumo
 
 Agora sabemos que o Git é um software, que é instalado em seu computador, e pode ser utilizado para diversos propósitos que envolvam o controle de versões de códigos. O GitHub é um site que facilita o compartilhamento dessas alterações oferencendo, entre seus serviços, a possibilidade de hospedar repositórios públicos ou privados na web, os quais tornam-se acessíveis para quaisquer pessoas interessadas de qualquer lugar do planeta.

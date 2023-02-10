@@ -1,6 +1,6 @@
 ---
 description: Sistema de versionamento de código
-cover: ../../.gitbook/assets/Git-Logo-Vector.jpg
+cover: ../.gitbook/assets/Git-Logo-Vector.jpg
 coverY: 0
 ---
 
@@ -17,7 +17,7 @@ Git é um software livre de versionamento de código fonte utilizado para coorde
 * O Git mantém o registro de todas as versões do código, sendo possível visualizar o estado anterior dos arquivos ou retornar a uma versão para desfazer mudanças indesejadas.
 * O Git organiza o espaço de trabalho em _branches_, ou galhos, permitindo o desenvolvimento e a testagem de funcionalidades em paralelo ao código principal, que deve ter a sua funcionalidade preservada. Quando bem sucedidas, essas alterações desenvolvidas nos _branches_ alternativos podem ser transportadas para o _branch_ principal (_master_).
 
-<figure><img src="../../.gitbook/assets/git-branches-merge.png" alt=""><figcaption><p>Exemplo da implementação dos <em>branches</em> em um projeto utilizando Git. <br>Fonte: <a href="https://www.nobledesktop.com/learn/git/git-branches">https://www.nobledesktop.com/learn/git/git-branches</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/git-branches-merge.png" alt=""><figcaption><p>Exemplo da implementação dos <em>branches</em> em um projeto utilizando Git. <br>Fonte: <a href="https://www.nobledesktop.com/learn/git/git-branches">https://www.nobledesktop.com/learn/git/git-branches</a></p></figcaption></figure>
 
 ## Importância para a empresa
 
