@@ -18,8 +18,8 @@ As instruções de instalação para diversas distribuições Linux estão no li
 
 {% embed url="https://git-scm.com/download/linux" %}
 
-## MacOS
+## macOS
 
-Instruções para instalação no MacOS.
+Instruções para instalação no macOS.
 
 {% embed url="https://git-scm.com/download/mac" %}
