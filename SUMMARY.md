@@ -14,6 +14,7 @@
   * [Códigos](tutoriais/markdown/codigos.md)
 * [Git](tutoriais/git.md)
   * [Git vs GitHub](tutoriais/git/git-vs-github.md)
+  * [Instalação](tutoriais/git/instalacao.md)
 
 ## 🎯 Marketing
 
