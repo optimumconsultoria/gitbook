@@ -1,6 +1,7 @@
 # Table of contents
 
 * [📓 Optimum Wiki](README.md)
+* [🧑⚕ Equipe](equipe.md)
 
 ## 📒 Tutoriais
 
