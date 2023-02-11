@@ -2,7 +2,6 @@
 description: Informações de contato da equipe da Optimum Consultoria
 cover: .gitbook/assets/fundo-optimum-logo.png
 coverY: 0
-layout: editorial
 ---
 
 # 🧑⚕ Equipe
