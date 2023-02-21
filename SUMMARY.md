@@ -16,6 +16,7 @@
 * [Git](tutoriais/git.md)
   * [Git vs GitHub](tutoriais/git/git-vs-github.md)
   * [Instalação](tutoriais/git/instalacao.md)
+  * [Inicialização](tutoriais/git/inicializacao.md)
 
 ## 🎯 Marketing
 
