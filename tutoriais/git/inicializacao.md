@@ -34,4 +34,4 @@ git clone https://github.com/optimumconsultoria/optimumconsultoria.github.io
 
 ## Conclusão
 
-Vimos que os comandos `git init` e `git clone` são utilizados para iniciar o fluxo de trabalho com o Git. Caso o repositório esteja sendo criado pela primeira vez utilizamos `git init`, caso este já exista e desejemos trabalhar com uma versão local utilizamos `git clone`.
+Vimos que os comandos `git init` e `git clone` são utilizados para iniciar o fluxo de trabalho em Git. Caso o repositório esteja sendo criado pela primeira vez utilizamos `git init`, caso este já exista e desejemos trabalhar com uma versão local utilizamos `git clone`.
