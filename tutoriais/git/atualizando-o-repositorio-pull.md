@@ -20,4 +20,4 @@ git log
 Para sair do log basta digitar `q` e pressionar `enter`
 {% endhint %}
 
-No log é possível visualizar o desenvolvimento do projeto, constando mensagens de commit, usuário responsável, horário e identificação do commit.
+No log é possível visualizar o desenvolvimento do projeto, constando mensagens de commit, usuário responsável, horário e número de identificação do commit.
