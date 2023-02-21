@@ -8,7 +8,7 @@ O comando `git commit` efetua as mudanças propostas no repositório local, mas,
 
 A resposta a essa pergunta depende da [forma com que o repositório Git foi criado](inicializacao-init-clone.md), isto é, utilizando `git init` ou `git clone`.
 
-## `git clone`
+## Trabalhando com um repositório remoto (`git clone`)
 
 Este é o caso mais simples, pois quando o repositório utilizado é uma cópia de um repositório existente no GitHub basta executar:
 
@@ -22,9 +22,9 @@ Após o primeiro push deve ser possível enviar as mudanças apenas com:
 git push
 ```
 
-## `git init`
+## Trabalhando com novo repositório local (`git init`)
 
-Caso tenha criado um novo repositório local, utilizando `git init`, deve-se [criar um novo repositório no GitHub](https://docs.github.com/pt/get-started/quickstart/create-a-repo) e inserir:
+Caso tenha criado um novo repositório local, utilizando `git init`, deve-se [criar um novo repositório no GitHub](https://docs.github.com/pt/get-started/quickstart/create-a-repo) e inserir em seu terminal local:
 
 ```bash
 git remote add origin <url-para-novo-repositorio>
