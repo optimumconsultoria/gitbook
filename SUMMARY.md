@@ -19,6 +19,7 @@
   * [Inicialização (init/clone)](tutoriais/git/inicializacao-init-clone.md)
   * [Add e Commit](tutoriais/git/add-e-commit.md)
   * [Enviando mudanças (push)](tutoriais/git/enviando-mudancas-push.md)
+  * [Atualizando o repositório (pull)](tutoriais/git/atualizando-o-repositorio-pull.md)
 
 ## 🎯 Marketing
 
