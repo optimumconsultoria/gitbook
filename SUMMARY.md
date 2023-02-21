@@ -16,8 +16,9 @@
 * [Git](tutoriais/git.md)
   * [Git vs GitHub](tutoriais/git/git-vs-github.md)
   * [Instalação](tutoriais/git/instalacao.md)
-  * [Inicialização](tutoriais/git/inicializacao.md)
+  * [Inicialização (init/clone)](tutoriais/git/inicializacao-init-clone.md)
   * [Add e Commit](tutoriais/git/add-e-commit.md)
+  * [Enviando mudanças (push)](tutoriais/git/enviando-mudancas-push.md)
 
 ## 🎯 Marketing
 

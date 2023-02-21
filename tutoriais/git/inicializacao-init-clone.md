@@ -2,7 +2,7 @@
 description: Criando novos repositórios e copiando repositórios existentes
 ---
 
-# Inicialização
+# Inicialização (init/clone)
 
 Um projeto com versionamento em Git pode ser iniciado de duas maneiras: a partir da criação de um novo repositório ou copiando um repositório já existente, seja este local ou remoto.
 

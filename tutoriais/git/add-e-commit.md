@@ -1,16 +1,16 @@
 ---
-description: Propondo e fazendo mudanças
+description: Propondo e realizando mudanças
 ---
 
 # Add e Commit
 
 {% hint style="info" %}
-Certifique-se que está executando estes comandos com a pasta correta aberta no terminal
+Certifique-se de que está executando estes comandos com a pasta correta aberta no terminal
 {% endhint %}
 
 ## `git status`
 
-Uma vez iniciado um fluxo de trabalho em Git, todas as mudanças realizadas nos arquivos são registradas e podem ser vistas utilizando o comando `git status`. O `git status` lista o nome de todos os arquivos com mudanças, que podem ser propostas por meio do comando `git add`.
+Uma vez iniciado um fluxo de trabalho em Git, todas as mudanças realizadas nos arquivos são registradas e podem ser vistas utilizando o comando `git status`. O `git status` lista o nome de todos os arquivos com mudanças, as quais podem ser propostas por meio do comando `git add`.
 
 ## `git add`
 
